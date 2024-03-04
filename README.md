@@ -23,4 +23,4 @@ No installation is required. Just clone the repository or download the `app.py` 
 
 ## Demo
 
-  <img src="./demo.png" height="500px">
+  <img src="./images/demo.png" height="500px">
